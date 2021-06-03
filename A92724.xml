@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scots beaten with their own weapons, and their playing fast and loose with King and Parliament clearly discovered. Which may serve also for a full (and briefe) answer to the Scots last large papers. Published for the satisfaction both of city and countrey, concerning the King and the Scots. Imprimatur Gilbert Mabbot.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92724</idno><idno type="EEBO-CITATION">99864278</idno>
+  <idno type="VID">161401</idno>
+  <idno type="EEBO-PROQUEST">2240902323</idno>
+  
+            <idno type="STC">Wing S2023</idno>
+            <idno type="STC">Thomason E422_35</idno>
+            <idno type="STC">ESTC R204815</idno>
+            <idno type="PROQUEST">99864278</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864278e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92724)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161401)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E422[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scots beaten with their own weapons, and their playing fast and loose with King and Parliament clearly discovered. Which may serve also for a full (and briefe) answer to the Scots last large papers. Published for the satisfaction both of city and countrey, concerning the King and the Scots. Imprimatur Gilbert Mabbot.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I.C. for H.C. in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647 [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 15th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161401:1"/>
+            <p>THE SCOTS Beaten with their own WEAPONS, AND Their playing fast and loose with KING and PARLIAMENT clearly discovered.</p>
+            <p>Which may serve also for a full (and briefe) Answer to the SCOTS last large Papers.</p>
+            <p>
+               <hi>Published for the satisfaction both of City and Countrey, concerning the</hi> King <hi>and the</hi> Scots.</p>
+            <p>Imprimatur <hi>Gilbert Mabbot,</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> P<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inted by <hi>I.C.</hi> for <hi>H.C.</hi> in Popes-head Alley, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161401:2"/>
+            <pb n="1" facs="tcp:161401:2"/>
+            <head>The Scots beaten with their own Weapons.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas you desire my opinion of the <hi>Scottish</hi> Papers, lately presented to the Parliament of <hi>England,</hi> I judge them to be slight, and un<g ref="char:EOLhyphen"/>satisfying, stuffed more with malitious in<g ref="char:EOLhyphen"/>victives, then with solid Argumen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; more modesty and lesse bitternesse, might have been expected from men that make a fane profession; but whether will not passion and envy transport them? They have in these last papers discovered much pride and equivocation, which is apparent to every impartiall and unbyassed Reader, (as for their Creatures who Idolize their <hi>Presbytery,</hi> a just censure cannot be expected for them) 1. Pride, in taxing an <hi>English</hi> Parliament in such high and imperious language, and endeavouring to tye them up to a tittle to the <hi>Scottish</hi> formes, both eclesiastick all and civill, (save in the matter of the King) as if they had monopolized an infalibility of judgment to themselves, whereof they tra<g ref="char:EOLhyphen"/>duce the poore Sectaries; or as if our Kingdom and theirs, were not distinct governed by distinct Lawes, and inriched with distinct priviledges, though I say not there is such a great distance betwixt us and them, as betwixt us and other Nations more remote, yet I conceive it may be of dange<g ref="char:EOLhyphen"/>rous consequence to the <hi>English</hi> Nation, to confound our and their priviledges together; surely though we be united to them in some s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce, yet we have not lost the rights of <hi>Eng<g ref="char:EOLhyphen"/>lishmen,</hi> by confounding them with the <hi>Scots,</hi> if they be the genuine sence of the Covenant and Treaty, I think it is our duty to be humbled for entring into such inflaving and di<g ref="char:EOLhyphen"/>structive ingagements. 2. Equivocation, in pleading so high
+<pb n="2" facs="tcp:161401:3"/> for the <hi>Kings</hi> interest, here (of purpose to regaine their lost credit) and not induring it on the other side <hi>Tweed.</hi> Is the <hi>Kings</hi> Negative voice a wholsome hearbe here, and poyson there? or is it treason and disloyalty to deprive him of it here, and loyalty to exclude him from it there? they would be freemen themselves, and make us slaves, and this is farre from the love of Brethren; That they gr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sly equivocate in this it plainly appeares. 1. by their selling the <hi>King</hi> for 400000.l. 2. by that expression of a noble Covenanter to the <hi>King</hi> at <hi>Newcastle,</hi> That if he would not take the Cove<g ref="char:EOLhyphen"/>nant, and signe to the <hi>Presbytery,</hi> he should be disposed, ac<g ref="char:EOLhyphen"/>cording to the laudable Custom of <hi>Scotland,</hi> and the princi<g ref="char:EOLhyphen"/>ples of <hi>Knox</hi> and <hi>Brichanan,</hi> but you must conceive this is one of the finest baites they so insnare the people, who for the most part are Royalists, and it will much advance their designe of crushing the Parliament and Army, whom they hate with a perfect hatted, <hi>Flectere si nequeo superos, acceronta m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve bo.</hi> I wonder they and their Creatures are not asha<g ref="char:EOLhyphen"/>med to make so often mention of the Covenant and Treaty which they have treacherously violately in many perticu<g ref="char:EOLhyphen"/>lars, as 1. in entertaining corespondency with H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>Majesty,</hi> &amp; receiving him into their quarters at <hi>Kellum,</hi> without the <hi>Parliaments</hi> knowledge. 2. in caarying him to <hi>Southwell,</hi> and marched with him from thence to <hi>Newcastle,</hi> without the consent of the <hi>Parliament,</hi> and contrary to the <hi>Scots</hi> ingage<g ref="char:EOLhyphen"/>ment to our Commissioners at <hi>Newark.</hi> 3. in laying intol<g ref="char:EOLhyphen"/>lerable sesments and burthens on the Northern parts, &amp; ex<g ref="char:EOLhyphen"/>acting free quarter from them, to their great impoverish<g ref="char:EOLhyphen"/>ment, nay I may say, to the utter undoing of many Families, contrary to the sence of the <hi>Parliament,</hi> and that clause of the Covenant which they sildom or never mention in reference to <hi>England.</hi> That they will maintain the liberty of the Sub<g ref="char:EOLhyphen"/>ject, I might likewise instance in their detayning Mr. <hi>Ash<g ref="char:EOLhyphen"/>burnam,</hi> against the <hi>Parliaments</hi> Order, and in many other particulars, but these may satisfie any rationall man. As they have broken the Treaty, and violated the Covenant; so they have grosly falsyfied their word to the <hi>King,</hi> who was promised by them at <hi>Newcastle,</hi> That he should not be deli<g ref="char:EOLhyphen"/>vered
+<pb n="3" facs="tcp:161401:3"/> untill he was setled in his Rights, and the Lord <hi>Low<g ref="char:EOLhyphen"/>den</hi> in one of his printed Speeches, hath these or the like words, that it would be base and dishonourable in them to deliver up the meanest subject fled to them for refuge, much more their royall Soveraign, and yet you know how basely they sold the <hi>King</hi> at <hi>Newcastle,</hi> when they had made as much use of him as they could for the payment of their Ar<g ref="char:EOLhyphen"/>reares, but they can break their Faith and keep their Cove<g ref="char:EOLhyphen"/>nant, which to me, and other ho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>est men is a <hi>Paradox,</hi> nay, I have been informed from good hands, that they will dis<g ref="char:EOLhyphen"/>pence with their Covenant in relation to the <hi>King,</hi> contrary to their professions, if he will but contribute his assistance to destroy this Army and their partakers, so that the Cove<g ref="char:EOLhyphen"/>nant is onely made a stalking horse to their dangerous de<g ref="char:EOLhyphen"/>signes in <hi>England,</hi> and they can dispence with it at their pleasure, for an advantage against Independents, and if this be faithfulnesse in them, I know not what is dissimulation, it must needes grieve the heart of every true <hi>Englishman,</hi> that the <hi>Scots</hi> should intermeddle so much in our affaires, and make themselves and a few violent men of their faction in <hi>England,</hi> the onely competent Judges of our priviledges, without the Concurrence of the <hi>English</hi> Parliament, whom they chide in their papers, for sending the 4 Bils to the <hi>King</hi> without their consent, because the same forsooth tended to the setling of Peace in this Kingdom, which it seemes must not be setled, till the <hi>Scottish</hi> interest be provided for, though their demands be never so unreasonable, and prejudiciall to the rights of <hi>Englishmen.</hi> The leavying of Religion out of the Bills is a great terrour in their apprehension, for as much as it ought to be handled in the first place, which is easily granted, so it be contested for by spirituall weapons, and set<g ref="char:EOLhyphen"/>led by spirituall meanes, but it is not compelling the out<g ref="char:EOLhyphen"/>ward man, and imposing civill mulcts and penalties that will make men Religious, and obedient to the Gospell, nei<g ref="char:EOLhyphen"/>ther doth the power of Religion consist in a rigid persecu<g ref="char:EOLhyphen"/>ting <hi>Presbytery,</hi> which is the Reformation these men would have, and the grand Idoll which they adore, as appeares by these and other their papers. If a man cry u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Presbyte<g ref="char:EOLhyphen"/>ry
+<pb n="4" facs="tcp:161401:4"/> to be <hi>jure divino,</hi> though he be but a formalist, yet he is <hi>ipso facto,</hi> truly Religious in their Books, and hence it is, they have so many Religion<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Covenants, and so few spirituall men in <hi>Scotland.</hi> I can scarce forbeare smiting when I use that expression of them, <hi>viz. That the Presbyteriall Govern<g ref="char:EOLhyphen"/>ment as it is setled by Ordinance of Parliament in England, is but a dead form without life or power,</hi> why Brethren, can there be life in a dead forme, or can a dead form especial<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y such an one, as your <hi>Presbytery</hi> is convey, life without the spirit of God, but their meaning is, &amp; th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t it is without l fe power be<g ref="char:EOLhyphen"/>cause the Classical Elders have not a coercive power dispensed to them by the civil Magistrate to make everyman conform to their practice, and submit to their censures under payn of confiscation of goods: banishment, imprisonment, death. Lee this is the life and power, of their Presbytery in <hi>Scotland,</hi> which they w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld have established in <hi>England,</hi> that so the <hi>Scottish</hi> interest may be promoted here as much as there. Nor should it seeme strange to us, that these men are vio<g ref="char:EOLhyphen"/>lently bent against a Toleration of these of d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fferent Judge<g ref="char:EOLhyphen"/>ments, and more light in the mysterie of the Gospell, then themselves; seeing they are so setled upon the Lets of unifor<g ref="char:EOLhyphen"/>mity, (their great Diana) that they will admit of no other way or practise in this Kingdom but their own, and besides it would hinder, (as they know by sad experience) the car<g ref="char:EOLhyphen"/>rying on of the <hi>Scottish</hi> designe, of making themselves our e<g ref="char:EOLhyphen"/>qualls, or rather superiours in the transactions of State mat<g ref="char:EOLhyphen"/>ters, and the enjoyment of civill priviledges in our own Na<g ref="char:EOLhyphen"/>tion. They have other expressions in their papers, very redi<g ref="char:EOLhyphen"/>culous and unsutable to Commissions of State, as those a<g ref="char:EOLhyphen"/>bout Tub-preachers and Seekers, a Sect which I am confi<g ref="char:EOLhyphen"/>dent they are not acquainted with being no friends (you may be sure) to private meetings; but they have heard of such from the men of Smais Colledge, and therefore they rank them among the other Sectaries.</p>
+            <p>One thing I cannot omit, without speaking a word in an<g ref="char:EOLhyphen"/>swer to it, and that is their taxing the Parl. with breach of promise, and proceeding, contrary to their former Declara<g ref="char:EOLhyphen"/>tions, which yet they themselves are guilty of insomuch
+<pb n="5" facs="tcp:161401:4"/> that if God shoul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enter into Judgment with them &amp; their party for their unfaithfulnes &amp; breach of promis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, they would be ut erly consumed; now admit the Parliament have in some things of late proceded contrarie to their former Declaration, must it be presently imputed to their unfa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th<g ref="char:EOLhyphen"/>fulnesse; I hope they may now and then see cause to alter their resolutions for the good of the Kingdom, that appearing to be for safety now which wou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d have <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en di<g ref="char:EOLhyphen"/>structive then, or distructive now, which would have been for sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ety then, and hereof they being the supream Court of judicature, are the most competent Judges and not the <hi>Scott</hi> [with whose Lawes and Statute policy we do not inter<g ref="char:EOLhyphen"/>medle] as <hi>Austin</hi> said in another cas<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, so may I say in thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, distinguish the times and we shall see a good agrement &amp; harmony against the Parliaments further actings, and their present proceedings. In my judgement our Brethren shew themselves none of the wisest States men, having spent so much Blood and Treasure in opposition to the Bishops, by urging a speedy disbanding of the <hi>English</hi> Army; for is it not very probable that the Episcopal party being the grea<g ref="char:EOLhyphen"/>test number, will prevaile upon the disbanding of the Ar<g ref="char:EOLhyphen"/>my, seeing they are so bold as to raise commotions in the Countrey now whilst the Army have their Swords in their hands, [witnesse the late rising in <hi>London, Kent, Ipswitch,</hi> and the Isle of <hi>Wygh:</hi>] what may we or our Brethren expect in case of the Army were disbanded but it seemes they will hazard their Presbitery in <hi>Scotland</hi> rather then this in Eng<g ref="char:EOLhyphen"/>land shall be without life and power namely Persccution which being seperated from it, it is but an empty forme a cead Carcase, alas poore Army thou art but ill rewarded for all thy good services especially from thy Neighbours in <hi>Scotland;</hi> but the reasons why thou art so contemptible in their eyes, are plain and evident. 1. Because the Army have been more faithfull, and their endeavours crowned with greater successe, which hath bred ill blood in the Presby<g ref="char:EOLhyphen"/>terian faction. 2. The Members of the Army are true <hi>English<g ref="char:EOLhyphen"/>men,</hi> faithfull to the <hi>English</hi> interest, and will not be blinded
+<pb n="6" facs="tcp:161401:5"/> with a Scottish mist, God having opened their eyes, whilst others are shut. 3. they are convinced that moderate peace<g ref="char:EOLhyphen"/>able men who have ingaged with them in this cause, though they differ somewhat from the Presbyterians ought to have civill liberty in their Native Countrey, and this Evangelicall Principle of theirs, is that which renders them odious to all bitter persecuting spirits, that would force their brethren by fire and Sword. The Lord of glory bring the hidden workes of darknesse to light, &amp; cleare up the innocency of his poore disposed people that according to his promise they may have a name and a prayer in the places, where they have been re<g ref="char:EOLhyphen"/>proached and put ro shame. And so <hi>I</hi> bid you farwell.</p>
+            <div type="imprimatur">
+               <p>
+                  <hi>Jmprimatur</hi>
+               </p>
+               <closer>
+                  <signed>Gilbert Mabbott:</signed>
+                  <dateline>
+                     <date>
+                        <hi>Jan.</hi> 14. 1647.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
